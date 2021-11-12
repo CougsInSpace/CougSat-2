@@ -3,14 +3,16 @@ This contains the governing documents over CougSat- 2 and has links to every app
 
 
 ## Table of Contents ##
-
+- [Hardware](#hardware)
+- [Software](#software)
+- [Resources](#resources)
 
 ## Hardware ##
-
+[CougSat2-Hardware](https://github.com/CougsInSpace/CougSat2-Hardware)
 
 ## Software ##
 
 
 ## Resources ##
-
+[CougSat2-Resources](https://github.com/CougsInSpace/Resources)
 
