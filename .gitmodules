@@ -1,0 +1,3 @@
+[submodule "CSBus-EPS-HW"]
+	path = CSBus-EPS-HW
+	url = https://github.com/CougsInSpace/CSBus-EPS-HW
