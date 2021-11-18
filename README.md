@@ -14,5 +14,5 @@ This contains the governing documents over CougSat- 2 and has links to every app
 
 
 ## Resources ##
-[CougSat2-Resources](https://github.com/CougsInSpace/Resources)
+[CougSat2-Resources]
 
