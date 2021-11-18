@@ -4,3 +4,6 @@
 [submodule "CSBus-EPS-SW"]
 	path = CSBus-EPS-SW
 	url = https://github.com/CougsInSpace/CSBus-EPS-SW
+[submodule "CSBus-PV-HW"]
+	path = CSBus-PV-HW
+	url = https://github.com/CougsInSpace/CSBus-PV-HW
