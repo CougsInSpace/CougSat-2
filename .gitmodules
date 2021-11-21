@@ -7,3 +7,6 @@
 [submodule "CSBus-PV-HW"]
 	path = CSBus-PV-HW
 	url = https://github.com/CougsInSpace/CSBus-PV-HW
+[submodule "CSBus-RCS-HW"]
+	path = CSBus-RCS-HW
+	url = https://github.com/CougsInSpace/CSBus-RCS-HW
