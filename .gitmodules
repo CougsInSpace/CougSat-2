@@ -22,3 +22,6 @@
 [submodule "CSBus-IFJR-SW"]
 	path = CSBus-IFJR-SW
 	url = https://github.com/CougsInSpace/CSBus-IFJR-SW
+[submodule "CSBus-Avionics-HW"]
+	path = CSBus-Avionics-HW
+	url = https://github.com/CougsInSpace/CSBus-Avionics-HW
