@@ -16,3 +16,6 @@
 [submodule "CSBus-ADCS-SW"]
 	path = CSBus-ADCS-SW
 	url = https://github.com/CougsInSpace/CSBus-ADCS-SW
+[submodule "CSBus-CDH-SW"]
+	path = CSBus-CDH-SW
+	url = https://github.com/CougsInSpace/CSBus-CDH-SW
