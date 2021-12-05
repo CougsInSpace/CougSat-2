@@ -10,3 +10,6 @@
 [submodule "CSBus-RCS-HW"]
 	path = CSBus-RCS-HW
 	url = https://github.com/CougsInSpace/CSBus-RCS-HW
+[submodule "CSBus-RCS-SW"]
+	path = CSBus-RCS-SW
+	url = https://github.com/CougsInSpace/CSBus-RCS-SW
