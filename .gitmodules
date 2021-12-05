@@ -25,3 +25,6 @@
 [submodule "CSBus-Avionics-HW"]
 	path = CSBus-Avionics-HW
 	url = https://github.com/CougsInSpace/CSBus-Avionics-HW
+[submodule "CSBus-Comms-HW"]
+	path = CSBus-Comms-HW
+	url = https://github.com/CougsInSpace/CSBus-Comms-HW
