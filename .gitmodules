@@ -19,3 +19,6 @@
 [submodule "CSBus-CDH-SW"]
 	path = CSBus-CDH-SW
 	url = https://github.com/CougsInSpace/CSBus-CDH-SW
+[submodule "CSBus-IFJR-SW"]
+	path = CSBus-IFJR-SW
+	url = https://github.com/CougsInSpace/CSBus-IFJR-SW
