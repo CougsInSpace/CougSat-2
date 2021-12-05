@@ -34,3 +34,6 @@
 [submodule "CSBus-ECS-HW"]
 	path = CSBus-ECS-HW
 	url = https://github.com/CougsInSpace/CSBus-ECS-HW
+[submodule "CSBus-Backplane-HW"]
+	path = CSBus-Backplane-HW
+	url = https://github.com/CougsInSpace/CSBus-Backplane-HW
