@@ -31,3 +31,6 @@
 [submodule "CSBus-Comms-SW"]
 	path = CSBus-Comms-SW
 	url = https://github.com/CougsInSpace/CSBus-Comms-SW
+[submodule "CSBus-ECS-HW"]
+	path = CSBus-ECS-HW
+	url = https://github.com/CougsInSpace/CSBus-ECS-HW
