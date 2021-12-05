@@ -13,3 +13,6 @@
 [submodule "CSBus-RCS-SW"]
 	path = CSBus-RCS-SW
 	url = https://github.com/CougsInSpace/CSBus-RCS-SW
+[submodule "CSBus-ADCS-SW"]
+	path = CSBus-ADCS-SW
+	url = https://github.com/CougsInSpace/CSBus-ADCS-SW
