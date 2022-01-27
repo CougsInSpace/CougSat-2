@@ -22,6 +22,8 @@ This contains the governing documents over CougSat- 2 and has links to every app
 
 [RCS - Reaction Control System](https://github.com/CougsInSpace/CSBus-RCS-HW)
 
+[Payload/Propulsion](https://github.com/CougsInSpace/CougSat2-Hardware)
+
 ## Software ##
 [ADCS - Attitude Determination Control System](https://github.com/CougsInSpace/CSBus-ADCS-SW)
 
