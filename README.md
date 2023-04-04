@@ -8,7 +8,7 @@ This contains the governing documents over CougSat- 2 and has links to every app
 - [Resources](#resources)
 
 ## Hardware ##
-[Avionics](https://github.com/CougsInSpace)
+[Avionics](https://github.com/CougsInSpace/CougSat2-Software/ADCS SW - Attitude Detrmination Control System)
 
 [Backplane](https://github.com/CougsInSpace)
 
