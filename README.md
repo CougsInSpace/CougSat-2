@@ -8,21 +8,21 @@ This contains the governing documents over CougSat- 2 and has links to every app
 - [Resources](#resources)
 
 ## Hardware ##
-[Avionics]()
+[Avionics](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/ASVI%20HW%20-%20Avionics)
 
-[Backplane](https://github.com/CougsInSpace)
+[Backplane](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/BM%20HW%20-%20Backplane%20Module)
 
-[Comms - Communication System](https://github.com/CougsInSpace)
+[Comms - Communication System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/Comms%20HW%20-%20Communication%20System)
 
-[ECS - Environmental Control System](https://github.com/CougsInSpace)
+[ECS - Environmental Control System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/ECS%20HW%20-%20Environmental%20Control%20System)
 
-[EPS - Electric Power System](https://github.com/CougsInSpace)
+[EPS - Electric Power System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/EPS%20HW%20-%20Electric%20Power%20System)
 
-[PV - Photo Votaic](https://github.com/CougsInSpace)
+[PV - Photo Votaic](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/PV%20HW%20-%20Photo%20Votaic)
 
-[RCS - Reaction Control System](https://github.com/CougsInSpace)
+[RCS - Reaction Control System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/RCS%20HW%20-%20Reaction%20Control%20System)
 
-[Payload/Propulsion](https://github.com/CougsInSpace)
+[Prop - Payload Propulsion System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/Prop%20HW%20-%20Payload%20Propulsion%20System)
 
 ## Software ##
 [ADCS - Attitude Determination Control System](https://github.com/CougsInSpace/CougSat2-Software/tree/master/ADCS%20SW%20-%20Attitude%20Detrmination%20Control%20System)
@@ -38,5 +38,5 @@ This contains the governing documents over CougSat- 2 and has links to every app
 [RCS - Reaction Control System]()
 
 ## Resources ##
-[CougSat2-Resources]
+[CougSat2-Resources](https://github.com/CougsInSpace/Resources)
 
