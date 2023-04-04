@@ -8,34 +8,34 @@ This contains the governing documents over CougSat- 2 and has links to every app
 - [Resources](#resources)
 
 ## Hardware ##
-[Avionics](https://github.com/CougsInSpace/CSBus-Avionics-HW)
+[Avionics](https://github.com/CougsInSpace)
 
-[Backplane](https://github.com/CougsInSpace/CSBus-Backplane-HW)
+[Backplane](https://github.com/CougsInSpace)
 
-[Comms - Communication System](https://github.com/CougsInSpace/CSBus-Comms-HW)
+[Comms - Communication System](https://github.com/CougsInSpace)
 
-[ECS - Environmental Control System](https://github.com/CougsInSpace/CSBus-ECS-HW)
+[ECS - Environmental Control System](https://github.com/CougsInSpace)
 
-[EPS - Electric Power System](https://github.com/CougsInSpace/CSBus-EPS-HW)
+[EPS - Electric Power System](https://github.com/CougsInSpace)
 
-[PV - Photo Votaic](https://github.com/CougsInSpace/CSBus-PV-HW)
+[PV - Photo Votaic](https://github.com/CougsInSpace)
 
-[RCS - Reaction Control System](https://github.com/CougsInSpace/CSBus-RCS-HW)
+[RCS - Reaction Control System](https://github.com/CougsInSpace)
 
-[Payload/Propulsion](https://github.com/CougsInSpace/CougSat2-Hardware)
+[Payload/Propulsion](https://github.com/CougsInSpace)
 
 ## Software ##
-[ADCS - Attitude Determination Control System](https://github.com/CougsInSpace/CSBus-ADCS-SW)
+[ADCS - Attitude Determination Control System](https://github.com/CougsInSpace)
 
-[CDH - Command and Data Handling](https://github.com/CougsInSpace/CSBus-CDH-SW)
+[CDH - Command and Data Handling](https://github.com/CougsInSpace)
 
-[Comms - Communication System](https://github.com/CougsInSpace/CSBus-Comms-SW)
+[Comms - Communication System](https://github.com/CougsInSpace)
 
-[EPS - Electric Power System](https://github.com/CougsInSpace/CSBus-EPS-SW)
+[EPS - Electric Power System](https://github.com/CougsInSpace)
 
-[IFJR - In Flight JTAG Reprogrammer](https://github.com/CougsInSpace/CSBus-IFJR-SW)
+[IFJR - In Flight JTAG Reprogrammer](https://github.com/CougsInSpace)
 
-[RCS - Reaction Control System](https://github.com/CougsInSpace/CSBus-RCS-SW)
+[RCS - Reaction Control System](https://github.com/CougsInSpace)
 
 ## Resources ##
 [CougSat2-Resources]
