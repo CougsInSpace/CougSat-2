@@ -1,6 +1,9 @@
 # CougSat2-Readme
 This contains the governing documents over CougSat- 2 and has links to every applicable file located in any other repositories
 
+## For First Time Users ##
+- [How to Use GitKraken](https://www.gitkraken.com/)
+- [Documenting Your Project]()
 
 ## Table of Contents ##
 - [Hardware (HW)](#hardware)
@@ -38,5 +41,5 @@ This contains the governing documents over CougSat- 2 and has links to every app
 [RCS - Reaction Control System]()
 
 ## Resources ##
-[CougSat2-Resources](https://github.com/CougsInSpace/Resources)
+[CougSat-Resources](https://github.com/CougsInSpace/Resources)
 
