@@ -1,4 +1,4 @@
-# CougSat2-Readme (In Progress)
+# CougSat2-Readme
 This contains the governing documents over CougSat- 2 and has links to every applicable file located in any other repositories
 
 
@@ -8,35 +8,35 @@ This contains the governing documents over CougSat- 2 and has links to every app
 - [Resources](#resources)
 
 ## Hardware ##
-[Avionics](https://github.com/CougsInSpace/CSBus-Avionics-HW)
+[Avionics](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/ASVI%20HW%20-%20Avionics)
 
-[Backplane](https://github.com/CougsInSpace/CSBus-Backplane-HW)
+[Backplane](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/BM%20HW%20-%20Backplane%20Module)
 
-[Comms - Communication System](https://github.com/CougsInSpace/CSBus-Comms-HW)
+[Comms - Communication System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/Comms%20HW%20-%20Communication%20System)
 
-[ECS - Environmental Control System](https://github.com/CougsInSpace/CSBus-ECS-HW)
+[ECS - Environmental Control System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/ECS%20HW%20-%20Environmental%20Control%20System)
 
-[EPS - Electric Power System](https://github.com/CougsInSpace/CSBus-EPS-HW)
+[EPS - Electric Power System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/EPS%20HW%20-%20Electric%20Power%20System)
 
-[PV - Photo Votaic](https://github.com/CougsInSpace/CSBus-PV-HW)
+[PV - Photo Votaic](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/PV%20HW%20-%20Photo%20Votaic)
 
-[RCS - Reaction Control System](https://github.com/CougsInSpace/CSBus-RCS-HW)
+[RCS - Reaction Control System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/RCS%20HW%20-%20Reaction%20Control%20System)
 
-[Payload/Propulsion](https://github.com/CougsInSpace/CougSat2-Hardware)
+[Prop - Payload Propulsion System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/Prop%20HW%20-%20Payload%20Propulsion%20System)
 
 ## Software ##
-[ADCS - Attitude Determination Control System](https://github.com/CougsInSpace/CSBus-ADCS-SW)
+[ADCS - Attitude Determination Control System](https://github.com/CougsInSpace/CougSat2-Software/tree/master/ADCS%20SW%20-%20Attitude%20Detrmination%20Control%20System)
 
-[CDH - Command and Data Handling](https://github.com/CougsInSpace/CSBus-CDH-SW)
+[CDH - Command and Data Handling](https://github.com/CougsInSpace/CougSat2-Software/tree/master/CDH%20SW%20-%20Command%20and%20Data%20Handling)
 
-[Comms - Communication System](https://github.com/CougsInSpace/CSBus-Comms-SW)
+[Comms - Communication System](https://github.com/CougsInSpace/CougSat2-Software/tree/master/Comms%20SW%20-%20Communication%20System)
 
-[EPS - Electric Power System](https://github.com/CougsInSpace/CSBus-EPS-SW)
+[EPS - Electric Power System](https://github.com/CougsInSpace/CougSat2-Software/tree/master/EPS%20SW%20-%20Electric%20Power%20System)
 
-[IFJR - In Flight JTAG Reprogrammer](https://github.com/CougsInSpace/CSBus-IFJR-SW)
+[IFJR - In Flight JTAG Reprogrammer]()
 
-[RCS - Reaction Control System](https://github.com/CougsInSpace/CSBus-RCS-SW)
+[RCS - Reaction Control System]()
 
 ## Resources ##
-[CougSat2-Resources]
+[CougSat2-Resources](https://github.com/CougsInSpace/Resources)
 
