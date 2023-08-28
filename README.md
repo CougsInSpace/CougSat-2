@@ -3,14 +3,14 @@ This contains the governing documents over CougSat- 2 and has links to every app
 
 ## For First Time Users ##
 - [How to Use GitKraken](https://www.gitkraken.com/)
-- [Documenting Your Project]()
+- [Documenting Your Project](https://github.com/CougsInSpace/Resources/blob/master/GitHub%20Resources/README.md)
 
 ## Table of Contents ##
 - [Hardware (HW)](#hardware)
 - [Software (SW)](#software)
 - [Resources](#resources)
 
-## Hardware ##
+## [Hardware](#hardware) ##
 [Avionics](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/ASVI%20HW%20-%20Avionics)
 
 [Backplane](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/BM%20HW%20-%20Backplane%20Module)
@@ -27,7 +27,7 @@ This contains the governing documents over CougSat- 2 and has links to every app
 
 [Prop - Payload Propulsion System](https://github.com/CougsInSpace/CougSat2-Hardware/tree/master/Prop%20HW%20-%20Payload%20Propulsion%20System)
 
-## Software ##
+## [Software](#software) ##
 [ADCS - Attitude Determination Control System](https://github.com/CougsInSpace/CougSat2-Software/tree/master/ADCS%20SW%20-%20Attitude%20Detrmination%20Control%20System)
 
 [CDH - Command and Data Handling](https://github.com/CougsInSpace/CougSat2-Software/tree/master/CDH%20SW%20-%20Command%20and%20Data%20Handling)
