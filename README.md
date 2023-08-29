@@ -1,4 +1,4 @@
-# CougSat2-Readme
+# CougSat2 Directory
 This contains the governing documents over CougSat- 2 and has links to every applicable file located in any other repositories
 
 ## For First Time Users ##
